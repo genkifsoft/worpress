@@ -1,0 +1,1 @@
+<!-- hiển thị cho một post hoặc 1 post type nào đó -->

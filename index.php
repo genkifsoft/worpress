@@ -1,3 +1,5 @@
+<!-- Được sử dụng tất cả mọi trang -->
+<!-- Wphierarchy -->
 <?php
 
 if (have_post()) :
